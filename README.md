@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
 <h3 align="center">.Net developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gogusonpl&label=Profile%20views&color=0e75b6&style=flat" alt="gogusonpl" /> </p>
+### I’m currently working on:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gogusonpl&repo=get-work-done)](https://github.com/GogusonPL/Get-work-done)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gogusonpl&rMicroHelpers.CQRS)](https://github.com/GogusonPL/MicroHelpers.CQRS)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gogusonpl" alt="gogusonpl" /></a> </p>
-
-- 🔭 I’m currently working on [Get-work-done](https://github.com/GogusonPL/Get-work-done)
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me via:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dominik-gogola-19544817a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dominik-gogola-19544817a" height="30" width="40" /></a>
 </p>
@@ -17,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gogusonpl&show_icons=true&locale=en&layout=compact" alt="gogusonpl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gogusonpl&locale=en&count_private=true&show_icons=true&theme=synthwave" alt="gogusonpl" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gogusonpl&locale=en&count_private=true&show_icons=true&bg_color=308deg,#7f3ab4,#7f3ab4" alt="gogusonpl" /></p>
