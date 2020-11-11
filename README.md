@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm a .Net developer</h1>
-
-[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=goguson&locale=en&count_private=true&show_icons=true&theme=synthwave)
-
-### I’m currently working on:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=goguson&repo=get-work-done)](https://github.com/GogusonPL/Get-work-done)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=goguson&repo=MicroHelpers](https://github.com/GogusonPL/MicroHelpers)
 
 ### Currently learning:
 
