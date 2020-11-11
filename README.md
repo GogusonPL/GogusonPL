@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm a .Net developer</h1>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gogusonpl&locale=en&count_private=true&show_icons=true&bg_color=308deg,#7f3ab4,#7f3ab4" alt="gogusonpl" /></p>
-
+[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=goguson&locale=en&count_private=true&show_icons=true&theme=synthwave)
 ### I’m currently working on:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gogusonpl&repo=get-work-done)](https://github.com/GogusonPL/Get-work-done)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gogusonpl&repo=MicroHelpers.CQRS)](https://github.com/GogusonPL/MicroHelpers.CQRS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gogusonpl&repo=MicroHelpers](https://github.com/GogusonPL/MicroHelpers)
 ### Currently learning:
 <a href="https://vuejs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <h3 align="left">Contact me via:</h3>
