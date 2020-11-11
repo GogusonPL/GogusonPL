@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dominik</h1>
+<h1 align="center">Hi 👋, I'm a .Net developer</h1>
 <h3 align="center">.Net developer</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gogusonpl&locale=en&count_private=true&show_icons=true&bg_color=308deg,#7f3ab4,#7f3ab4" alt="gogusonpl" /></p>
@@ -6,7 +6,8 @@
 ### I’m currently working on:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gogusonpl&repo=get-work-done)](https://github.com/GogusonPL/Get-work-done)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gogusonpl&repo=MicroHelpers.CQRS)](https://github.com/GogusonPL/MicroHelpers.CQRS)
-
+### Currently learning:
+<a href="https://vuejs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 <h3 align="left">Contact me via:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dominik-gogola-19544817a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dominik-gogola-19544817a" height="30" width="40" /></a>
